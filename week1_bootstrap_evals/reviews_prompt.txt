@@ -1,0 +1,16 @@
+Write {n} realistic but detailed / specific product reviews that might show up on a hardware store's website.
+
+The reviews should be about the following product:
+Product Title: {product.title}
+Product Description: {product.description}
+
+Add many relevant and concrete facts about the products (this is for synthetic data generation, make up facts about each product as necessary).
+
+To illustrate the format of a typical review, here's a review for a saw:
+```
+I've enjoyed using this saw. It is lightweight and the battery lasts longer than other brands.
+I've been using it for 3 years now and it has been very durable. It was twice as expensive as the PX-500. But
+it is comfortable to hold because of the light weight.
+```
+
+Respond only with the reviews, and nothing else.

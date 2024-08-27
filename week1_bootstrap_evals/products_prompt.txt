@@ -1,0 +1,9 @@
+Create a list of {n_products} products someone might buy at a hardware store based on the following instructions:
+- Each product title should be repeated 2-3 times. Do not have any with duplicate product descriptions.
+- Each product with a given title should have some small distinctions apparent from the description.
+- Products can be small (a screw), large (a bandsaw) or anywhere in between.
+- For each product, write a 2-3 sentence product description that might show up in a hardware retailers website underneath the product.
+- Product reviews should not contradict specific facts in other reviews.
+- Contradicting subjective opinions in other reviews is ok only to the extent you would expect that in real data.
+
+Respond only with the list of products and descriptions.
